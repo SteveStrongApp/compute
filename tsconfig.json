@@ -1,0 +1,23 @@
+{
+"compileOnSave": true,
+ "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs", 
+    "noEmitOnError": false,
+    "noImplicitAny": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "typeRoots": [
+      "./typings"
+    ],
+    "outDir": "build",
+    "sourceMap": true
+  },
+  "include": [
+        "src/**/*"
+  ],
+  "exclude": [
+      "node_modules"
+  ]
+}
