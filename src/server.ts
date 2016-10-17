@@ -1,5 +1,7 @@
 
+
 declare var __dirname;
+  
 
 import * as express from 'express';
 import { handlebars } from  'consolidate'
