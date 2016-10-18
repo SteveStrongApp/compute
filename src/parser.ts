@@ -9,7 +9,6 @@
  but don't feel like you have to let me know or ask permission.
 */
 
-//import * as Math from "Math"
 
 //  Added by stlsmiths 6/13/2011
 //  re-define Array.indexOf, because IE doesn't know it ...
