@@ -7,7 +7,6 @@
     "noImplicitAny": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-
     "outDir": "build",
     "sourceMap": true
   },
