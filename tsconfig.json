@@ -7,10 +7,7 @@
     "noImplicitAny": false,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "moduleResolution": "node",
-    "typeRoots": [
-      "./typings"
-    ],
+
     "outDir": "build",
     "sourceMap": true
   },
